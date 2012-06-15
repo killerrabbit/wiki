@@ -130,12 +130,12 @@ your IRCd user (crontab -e):
 
     @reboot cd /home/user/inspircd; ./inspircd start
 
-## How do I get prefixes like `@`, `~` and `&`?
+## How do I get prefixes like `%`, `~` and `&`?
 
-If you are using InspIRCd 1.2, load [m_customprefix](https://github.com/inspircd/wiki/blob/master/Modules/customprefix.md).
-
-If you are using InspIRCd 2.0 or newer, load [m_halfop](https://github.com/inspircd/wiki/blob/master/Modules/halfop.md)
+If you are using InspIRCd 1.2, load [m_halfop](https://github.com/inspircd/wiki/blob/master/Modules/halfop.md)
 and [m_chanprotect](https://github.com/inspircd/wiki/blob/master/Modules/chanprotect.md).
+
+If you are using InspIRCd 2.0 or newer, load [m_customprefix](https://github.com/inspircd/wiki/blob/master/Modules/customprefix.md).
 
 ## Why does my server have none of the advertised features?
 
