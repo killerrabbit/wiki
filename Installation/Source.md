@@ -17,6 +17,7 @@ the following to download and unpack the source:
 ```sh
 wget https://cloud.github.com/downloads/inspircd/inspircd/InspIRCd-X.Y.Z.tar.bz2
 tar xvf ./InspIRCd-X.Y.Z.tar.bz2
+```
 
 **Note** if you are using a system which does not ship with GNU wget, such as Mac OS X, then you
 will need to replace `wget` in the above example with `curl --remote-name`.
