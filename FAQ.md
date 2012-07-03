@@ -132,8 +132,7 @@ your IRCd user (crontab -e):
 
 ## How do I get prefixes like `%`, `~` and `&`?
 
-If you are using InspIRCd 1.2, load [m_halfop](https://github.com/inspircd/wiki/blob/master/Modules/halfop.md)
-and [m_chanprotect](https://github.com/inspircd/wiki/blob/master/Modules/chanprotect.md).
+If you are using InspIRCd 1.2, set `<options:allowhalfop>` to yes and load [m_chanprotect](https://github.com/inspircd/wiki/blob/master/Modules/chanprotect.md).
 
 If you are using InspIRCd 2.0 or newer, load [m_customprefix](https://github.com/inspircd/wiki/blob/master/Modules/customprefix.md).
 
