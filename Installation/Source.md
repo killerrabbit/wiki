@@ -31,7 +31,7 @@ This can be done using the following example:
 
 ```sh
 git clone git://github.com/inspircd/inspircd.git
-git checkout insp12 # Optional, switches to the 2.1 branch.
+git checkout insp12 # Optional, switches to the 1.2 branch.
 git checkout insp21 # Optional, switches to the 2.1 branch.
 ```
 
