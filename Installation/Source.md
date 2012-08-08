@@ -2,24 +2,24 @@
 
 ## Obtaining
 
-There is two methods of obtaining the source code. You can either download the latest release or
+There are two methods of obtaining the source code. You can either download the latest release or
 clone the source code from our Git repository.
 
 ### Release Tarball
 
-The most common way to install InspIRCd will be using a release tarball. To obtain this, first visit
-the [downloads page](https://github.com/inspircd/inspircd/downloads). Here, you can obtain tarballs
+The most common way to install InspIRCd is by using a release tarball. To obtain this, first visit
+the [downloads page](https://github.com/inspircd/inspircd/downloads). There you can obtain tarballs
 for release versions.
 
-If you plan to build on a headless server, then you will probably need to use commands similar to
-the following to download and unpack the source:
+If you plan to build on a headless server you will probably need to use commands similar to
+the following in order to download and unpack the source:
 
 ```sh
 wget https://cloud.github.com/downloads/inspircd/inspircd/InspIRCd-X.Y.Z.tar.bz2
 tar xvf ./InspIRCd-X.Y.Z.tar.bz2
 ```
 
-**Note** if you are using a system which does not ship with GNU wget, such as Mac OS X, then you
+**Note** if you are using a system that does not have GNU wget, such as Mac OS X, then you
 will need to replace `wget` in the above example with `curl --remote-name`.
 
 ### Git Repository
