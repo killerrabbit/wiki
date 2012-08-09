@@ -66,7 +66,7 @@ On the appropriate issue tracker:
 
 ## How can I contribute to InspIRCd?
 
-Take a look at our [Contributing](https://github.com/inspircd/wiki/blob/master/Contributing.md)
+Take a look at our [Contributing](/wiki/Contributing.md)
 page.
 
 ## Can I use InspIRCd on my large network?
@@ -135,9 +135,9 @@ your IRCd user (crontab -e):
 
 ## How do I get prefixes like `%`, `~` and `&`?
 
-If you are using InspIRCd 1.2, set `<options:allowhalfop>` to yes and load [m_chanprotect](https://github.com/inspircd/wiki/blob/master/Modules/chanprotect.md).
+If you are using InspIRCd 1.2, set `<options:allowhalfop>` to yes and load [m_chanprotect](/wiki/Modules/chanprotect.md).
 
-If you are using InspIRCd 2.0 or newer, load [m_customprefix](https://github.com/inspircd/wiki/blob/master/Modules/customprefix.md).
+If you are using InspIRCd 2.0 or newer, load [m_customprefix](/wiki/Modules/customprefix.md).
 
 ## Why does my server have none of the advertised features?
 
@@ -157,17 +157,17 @@ the top of your configuration.
 
 ## How can I use channel admin commands such as kick/mode without having op?
 
-Load [m_override](https://github.com/inspircd/wiki/blob/master/Modules/override.md).
+Load [m_override](/wiki/Modules/override.md).
 
 Please note that this module must be loaded on all servers of your network or your mode changes may
 be reversed and/or you may cause desyncs.
 
 ## When users connect, InspIRCd never resolves their ident
 
-Ident lookups on InspIRCd are provided by [m_ident](https://github.com/inspircd/wiki/blob/master/Modules/ident.md).
+Ident lookups on InspIRCd are provided by [m_ident](/wiki/Modules/ident.md).
 You must load this module for them to be resolved.
 
 ## Can InspIRCd make cheese sandwiches?
 
-Yes, providing that you load the [m_cheesesandwich](https://github.com/inspircd/wiki/blob/master/Modules/cheesesandwich.md)
+Yes, providing that you load the [m_cheesesandwich](/wiki/Modules/cheesesandwich.md)
 module.

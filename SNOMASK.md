@@ -10,7 +10,7 @@ For example, to see local and remote connections and quit notices, execute the f
 
 `/MODE YourNick +s +cCqQ`
 
-To enable automatic setting of SNOMASKs upon opering, load [m_opermodes](https://github.com/inspircd/wiki/blob/master/Modules/opermodes.md)
+To enable automatic setting of SNOMASKs upon opering, load [m_opermodes](/wiki/Modules/opermodes.md)
 and set the modes in `<type:automodes>`. For example:
 
 ```XML
@@ -33,7 +33,7 @@ A list of the valid server notice masks and what they do is listed below.
 
 ## Channel Logging
 
-You can use the [m_chanlog](https://github.com/inspircd/wiki/blob/master/Modules/chanlog.md) module
+You can use the [m_chanlog](/wiki/Modules/chanlog.md) module
 to send messages to a channel of your choice. You can even have multiple channels for different
 masks. Use local masks on every server to the same channel to receive messages globally in the
 channel.

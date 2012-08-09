@@ -24,26 +24,26 @@ Due to the advanced and detailed nature of the InspIRCd Spanning Tree Protocol, 
 split into multiple sections for easier searching and readability. Please choose the section you
 require from the list below:
 
-* [Connecting a Server](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Connecting-a-Server.md)
+* [Connecting a Server](/wiki/Modules/spanningtree/Connecting-a-Server.md)
 &mdash; guide to connecting two servers together, authentication mechanisms and handshake protocols.
 
-* [Commands](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Commands.md) &mdash;
+* [Commands](/wiki/Modules/spanningtree/Commands.md) &mdash;
 a list of commands supported by the InspIRCd Spanning Tree Protocol.
 
-* [UUIDs](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/UUIDs.md) &mdash; a
+* [UUIDs](/wiki/Modules/spanningtree/UUIDs.md) &mdash; a
 guide to UUIDs (Universally Unique Identifiers) used to identify users and servers.
 
-* [Nickname Collision Handling](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Nickname-Collision-Handling.md)
+* [Nickname Collision Handling](/wiki/Modules/spanningtree/Nickname-Collision-Handling.md)
 &mdash; a guide to collision handling and prevention of unnecessary nickname collision kills.
 
-* [Message Routing](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Message-Routing.md)
+* [Message Routing](/wiki/Modules/spanningtree/Message-Routing.md)
 &mdash; a guide to message routing in the InspIRCd Spanning Tree Protocol.
 
-* [Server Types](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Server-Types.md)
+* [Server Types](/wiki/Modules/spanningtree/Server-Types.md)
 &mdash; a guide to different types of server in the InspIRCd Spanning Tree Protocol.
 
-* [Timestamp Synchronization](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Timestamp-Synchronization.md)
+* [Timestamp Synchronization](/wiki/Modules/spanningtree/Timestamp-Synchronization.md)
 &mdash; a guide to keeping your clocks correct: Important for IRC as a whole.
 
-* [Example Traffic](https://github.com/inspircd/wiki/blob/master/Modules/spanningtree/Example-Traffic.md)
+* [Example Traffic](/wiki/Modules/spanningtree/Example-Traffic.md)
 &mdash; an example conversation between two InspIRCd 1.2 servers.

@@ -35,7 +35,7 @@ be available as a keg-only package in your Homebrew directory. This will usually
 ## Notable Limitations
 
 * Extra modules such as SSL are not currently available. If you need these then you may wish to
-  [build from source](https://github.com/inspircd/wiki/blob/master/Installation.md).
+  [build from source](/wiki/Installation.md).
 
 ## Related Links
 
