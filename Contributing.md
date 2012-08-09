@@ -25,7 +25,7 @@ You can find repositories on [GitHub](http://github.org/inspircd/).
 If you wish to contribute to development, feel free. File as many pull requests as you want. Pull
 requests that fix existing issues are especially welcome.
 
-If you ever need to make a release, see the [release procedure](/wiki/Release-Procedure.md)
+If you ever need to make a release, see the [release procedure](/wiki/Release-Procedure.html)
 page for help.
 
 ### Documentation

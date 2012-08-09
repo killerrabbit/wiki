@@ -24,26 +24,26 @@ Due to the advanced and detailed nature of the InspIRCd Spanning Tree Protocol, 
 split into multiple sections for easier searching and readability. Please choose the section you
 require from the list below:
 
-* [Connecting a Server](/wiki/Modules/spanningtree/Connecting-a-Server.md)
+* [Connecting a Server](/wiki/Modules/spanningtree/Connecting-a-Server.html)
 &mdash; guide to connecting two servers together, authentication mechanisms and handshake protocols.
 
-* [Commands](/wiki/Modules/spanningtree/Commands.md) &mdash;
+* [Commands](/wiki/Modules/spanningtree/Commands.html) &mdash;
 a list of commands supported by the InspIRCd Spanning Tree Protocol.
 
-* [UUIDs](/wiki/Modules/spanningtree/UUIDs.md) &mdash; a
+* [UUIDs](/wiki/Modules/spanningtree/UUIDs.html) &mdash; a
 guide to UUIDs (Universally Unique Identifiers) used to identify users and servers.
 
-* [Nickname Collision Handling](/wiki/Modules/spanningtree/Nickname-Collision-Handling.md)
+* [Nickname Collision Handling](/wiki/Modules/spanningtree/Nickname-Collision-Handling.html)
 &mdash; a guide to collision handling and prevention of unnecessary nickname collision kills.
 
-* [Message Routing](/wiki/Modules/spanningtree/Message-Routing.md)
+* [Message Routing](/wiki/Modules/spanningtree/Message-Routing.html)
 &mdash; a guide to message routing in the InspIRCd Spanning Tree Protocol.
 
-* [Server Types](/wiki/Modules/spanningtree/Server-Types.md)
+* [Server Types](/wiki/Modules/spanningtree/Server-Types.html)
 &mdash; a guide to different types of server in the InspIRCd Spanning Tree Protocol.
 
-* [Timestamp Synchronization](/wiki/Modules/spanningtree/Timestamp-Synchronization.md)
+* [Timestamp Synchronization](/wiki/Modules/spanningtree/Timestamp-Synchronization.html)
 &mdash; a guide to keeping your clocks correct: Important for IRC as a whole.
 
-* [Example Traffic](/wiki/Modules/spanningtree/Example-Traffic.md)
+* [Example Traffic](/wiki/Modules/spanningtree/Example-Traffic.html)
 &mdash; an example conversation between two InspIRCd 1.2 servers.
