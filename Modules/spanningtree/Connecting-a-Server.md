@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Connecting a Server
+---
+title: Modules &raquo; m_spanningtree &raquo; Connecting a Server
+layout: default
+---
 
 To connect to a server we first proceed with the authentication phase, as detailed in the section
 below.

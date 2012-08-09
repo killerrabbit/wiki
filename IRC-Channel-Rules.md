@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; [#InspIRCd](irc://irc.chatspike.net/inspircd) Channel Rules
+---
+title: #InspIRCd Channel Rules
+layout: default
+---
 
 As with most IRC channels, the support channel has rules. These rules are as follows:
 

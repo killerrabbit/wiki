@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; System Requirements
+---
+title: System Requirements
+layout: default
+---
 
 To compile and run InspIRCd, the following software and hardware is required:  
 

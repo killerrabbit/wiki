@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modes
+---
+title: Modes
+layout: default
+---
 
 ## Core Modes
 

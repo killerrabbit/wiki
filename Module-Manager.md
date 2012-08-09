@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Module Manager
+---
+title: Module Manager
+layout: default
+---
 
 InspIRCd ships with a tool called `./modulemanager`. This tool allows you to easily install modules
 that are not included with the default distribution, such as third party modules and modules which

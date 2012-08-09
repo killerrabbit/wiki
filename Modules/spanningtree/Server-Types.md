@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Server Types
+---
+title: Modules &raquo; m_spanningtree &raquo; Server Types
+layout: default
+---
 
 InspIRCd has three types of server. Although the same in design, and speaking the same protocol,
 their behaviours are different due to the roles they play in maintaining the network. These are:

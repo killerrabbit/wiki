@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Installation
+---
+title: Installation
+layout: default
+---
 
 There are many different methods for installing InspIRCd. You will need to pick the one which fits
 your needs best.

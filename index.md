@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Home
+---
+title: Introduction
+layout: default
+---
 
 ## Welcome
 

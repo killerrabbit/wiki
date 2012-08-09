@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Protocol
+---
+title: Modules &raquo; m_spanningtree &raquo; Protocol
+layout: default
+---
 
 ## Introduction to the Spanning Tree Protocol
 

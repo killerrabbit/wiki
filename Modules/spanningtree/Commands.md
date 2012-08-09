@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Commands
+---
+title: Modules &raquo; m_spanningtree &raquo; Commands
+layout: default
+---
 
 This page has not been recreated yet.
 

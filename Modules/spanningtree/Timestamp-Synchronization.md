@@ -1,4 +1,8 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Timestamp Synchronization
+---
+title: Modules &raquo; m_spanningtree &raquo; Timestamp Synchronization
+layout: default
+---
+
 
 Because the InspIRCd Spanning Tree Protocol operates using UNIX timestamps, you must ensure that the
 system clocks on all of your servers are synchronized. This is best done with ntpd or ntpdate. If

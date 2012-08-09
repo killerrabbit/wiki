@@ -1,4 +1,8 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; UUIDs (Universally Unique User Identifiers)
+---
+title: Modules &raquo; m_spanningtree &raquo; Universally Unique User Identifiers
+layout: default
+---
+
 
 Our implementation and definition of SID, ID, and UID closely matches TS6's. That is:
 

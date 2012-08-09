@@ -1,4 +1,8 @@
-# InspIRCd Wiki &raquo; Contributors &raquo; Release Procedure
+---
+title: Release Procedure
+layout: default
+---
+
 
 ## To make a new release:
 vX.Y.P denotes the previous version, vX.Y.Z denotes the new version.

@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Installation &raquo; Mac OS X
+---
+title: Installation &raquo; Mac OS X
+layout: default
+---
 
 InspIRCd packages are available in the [Homebrew package manager](http://mxcl.github.com/homebrew/).
 

@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Frequently Asked Questions
+---
+title: Frequently Asked Questions
+layout: default
+---
 
 ## Why should I choose InspIRCd over some other IRC server?
 

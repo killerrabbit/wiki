@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_module_name
+---
+title: Modules &raquo; m_module_name
+layout: default
+---
 
 ## Description
 

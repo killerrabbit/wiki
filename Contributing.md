@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Contributors
+---
+title: Contributing
+layout: default
+---
 
 ## Introduction
 

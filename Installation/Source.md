@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Installation &raquo; Source
+---
+title: Installation &raquo; Source
+layout: default
+---
 
 ## Obtaining
 

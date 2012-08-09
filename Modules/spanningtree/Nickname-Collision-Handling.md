@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Nickname Collision Handling
+---
+title: Modules &raquo; m_spanningtree &raquo; Nickname Collision Handling
+layout: default
+---
 
 The InspIRCd 1.2+ spanningtree protocol adopts a TS6-like nickname collision algorithm which
 minimises the impact of nickname collisions and prevents most if not all KILLs when a collision

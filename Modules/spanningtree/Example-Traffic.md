@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Example Traffic
+---
+title: Modules &raquo; m_spanningtree &raquo; Example Traffic
+layout: default
+---
 
 ## Example Traffic
 

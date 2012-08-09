@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Supported Operating Systems
+---
+title: Supported Operating Systems
+layout: default
+---
 
 ## Supported Operating Systems
 

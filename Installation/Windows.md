@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Installation &raquo; Windows
+---
+title: Installation &raquo; Windows
+layout: default
+---
 
 InspIRCd packages are available on the [InspIRCd download page](https://github.com/inspircd/inspircd/downloads).
 

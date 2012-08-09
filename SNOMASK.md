@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; SNOMASKs
+---
+title: Server Notice Masks
+layout: default
+---
 
 ## Configuring SNOMASKs
 

@@ -1,4 +1,7 @@
-# InspIRCd Wiki &raquo; Modules &raquo; m_spanningtree &raquo; Message Routing
+---
+title: Modules &raquo; m_spanningtree &raquo; Message Routing
+layout: default
+---
 
 InspIRCd has four behaviours when it routes a message. These four behaviours are chosen dependent
 upon the message and the target and source of that message individually. These behaviours are:
