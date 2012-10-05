@@ -9,34 +9,24 @@ InspIRCd packages are available in the [Homebrew package manager](http://mxcl.gi
 
 First, ensure that your copy of Homebrew is up to date by executing the following command:
 
-```sh
-brew update
-```
+    brew update
 
-Once you have done this, subscribe to the `SaberUK/irc` tap using the following command:
+Now that your copy of Homebrew is up to date, you can install the InspIRCd package using the
+following command:
 
-```sh
-brew tap SaberUK/irc
-```
-
-Now that your copy of Homebrew knows about the InspIRCd packages, you can install the InspIRCd
-packages using one of the following commands:
-
-```sh
-brew install inspircd12 # InspIRCd 1.2
-brew install inspircd20 # InspIRCd 2.0
-brew install inspircd21 # InspIRCd 2.1
-```
+    brew install inspircd
 
 InspIRCd will now be downloaded and installed from source. Once it has finished installing, it will
 be available as a keg-only package in your Homebrew directory. This will usually be located at
-`/usr/local/Cellar/inspircdXX/X.Y.Z/`.
+`/usr/local/Cellar/inspircd/X.Y.Z/`.
 
-## Notable Limitations
+## Extra Modules
 
-* Extra modules such as SSL are not currently available. If you need these then you may wish to
-  [build from source](/wiki/Installation.html).
+Extra modules can be enabled at install time by passing an option to the install command. A list of
+possible options can be found by using the following command:
+
+    brew info inspircd
 
 ## Related Links
 
-* [SaberUK/homebrew-irc on GitHub](https://github.com/SaberUK/homebrew-irc).
+* [Homebrew &mdash; The missing package manager for OS X](http://mxcl.github.com/homebrew/)
