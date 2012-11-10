@@ -3,7 +3,7 @@ title: Modules &raquo; m_abbreviation
 layout: default
 ---
 
-### Description
+## Description
 
 This module allows commands to be abbreviated using the syntax
 `/BEGIN.` where `BEGIN` is the beginning of the command. For example,
@@ -15,19 +15,19 @@ commands start with those same letters.
 This module does not require any extra configuration, other than the
 `<module>` tag to load it. 
 
-### Modes
+## Modes
 
 This module does not implement any extra user or channel modes.
 
-### Extended Bans
+## Extended Bans
 
 This module implements no extended bans.
 
-### Commands
+## Commands
 
 None, but allows existing commands to be abbreviated.
 
-### Special Notes
+## Special Notes
 
 If more than one command begins with the `BEGIN` text, a list of
 matching commands will be given and no command will be executed.
