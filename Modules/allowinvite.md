@@ -24,15 +24,14 @@ This module does not implement any user modes.
 
 Mode | Description
 ---- | -----------
-A | Set this mode to allow anyone to `/invite` users to your channel
-(not just ops).
+A | Set this mode to allow anyone to `/invite` users to your channel (not just ops).
+
+Example: `/mode #channel +A`
 
 ## Extended Bans
 
 Mode | Description
 ---- | -----------
-["A"] | Extended Ban A:nick!user@host -- Set this on specific users to disallow them from sending /invites to your channel (for example, if the user is abusing /invite). 
+A | Extended Ban A:nick!user@host -- Set this on specific users to disallow them from sending /invites to your channel (for example, if the user is abusing /invite). 
 
-## Notes
-
-Insert any long notes or gotchas about this module here.
+Example: `/mode #channel +b A:nick!user@host`

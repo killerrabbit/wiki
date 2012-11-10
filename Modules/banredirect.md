@@ -28,14 +28,14 @@ This module does not implement any channel modes.
 
 ## Extended Bans
 
-This module does not implement any extended bans.
+The module does not introduce a new extban mode, but allows suffixing a target channel to the ban hostmask.
 
 ## Notes
 
 This supports partial banmask expansion (e.g. `/mode #channel +b Bob` actually applying a banmask of `Bob!*@*`) 
 like the core does. The behavior should be the same as the core.
 
-When this module is unloaded it will reset all bans with redirections without the redirection. So on unload 
+When this module is unloaded it will reset all bans *with* redirections to bans *without* the redirection. So on unload 
 you'll see a load of mode changes something like:
 
 `22:04 -!- ServerMode/#channel1 [-b+b *!*@*.mibbit.com#mibbets *!*@*.mibbit.com] by test.server.net`
