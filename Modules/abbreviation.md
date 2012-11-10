@@ -19,7 +19,7 @@ This module does not require any extra configuration, other than the
 
 This module does not implement any extra user or channel modes.
 
-### Extended Bans (Extbans)
+### Extended Bans
 
 This module implements no extended bans.
 

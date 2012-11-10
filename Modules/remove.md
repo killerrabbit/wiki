@@ -40,7 +40,7 @@ This module does not implement any extended bans.
 
 ## Notes
 
-When `+haq` are enabled, then you may forcepart anyone with a equal or
+When `+haq` are enabled, then you may force part anyone with a equal or
 lower 'level' than you, and if you are `+a` or `+q` you do not require
 `+o` to use `/REMOVE`.
 
@@ -53,10 +53,7 @@ For example:
 
 In this example:
 
-* UserA can only forcepart UserC as they are the only user with the same or lower level.
-* UserB can forcepart UserA and UserC, UserB's +o is ignored, as +a is 'higher' than it.
-* UserC can forcepart nobody, you must be at least a halfop to forcepart a user.
-* UserD can forcepart anyone on the channel, even though he doesn't have ops. 
-
-## Extra Resources
-
+* UserA can only force part UserC as they are the only user with the same or lower level.
+* UserB can force part UserA and UserC, UserB's +o is ignored, as +a is 'higher' than it.
+* UserC can force part nobody, you must be at least a halfop to force part a user.
+* UserD can force part anyone on the channel, even though he doesn't have ops. 

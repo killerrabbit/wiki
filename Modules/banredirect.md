@@ -41,6 +41,3 @@ you'll see a load of mode changes something like:
 `22:04 -!- ServerMode/#channel1 [-b+b *!*@*.mibbit.com#mibbets *!*@*.mibbit.com] by test.server.net`
 
 Also, if there are multiple bans matching a user the first one to be set will be the one which is applied. 
-
-## Extra Resources
-

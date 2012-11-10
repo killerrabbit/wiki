@@ -36,6 +36,3 @@ Mode | Description
 ## Notes
 
 Insert any long notes or gotchas about this module here.
-
-## Extra Resources
-
