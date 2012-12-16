@@ -11,14 +11,14 @@ clone the source code from our Git repository.
 ### Release Tarball
 
 The most common way to install InspIRCd is by using a release tarball. To obtain this, first visit
-the [downloads page](https://github.com/inspircd/inspircd/downloads). There you can obtain tarballs
+the [downloads page](https://inspircd.github.com/downloads). There you can obtain tarballs
 for release versions.
 
 If you plan to build on a headless server you will probably need to use commands similar to
 the following in order to download and unpack the source:
 
 ```sh
-wget https://cloud.github.com/downloads/inspircd/inspircd/InspIRCd-X.Y.Z.tar.bz2
+wget https://inspircd.github.com/downloads/InspIRCd-X.Y.Z.tar.bz2
 tar xvf ./InspIRCd-X.Y.Z.tar.bz2
 ```
 
@@ -35,7 +35,6 @@ This can be done using the following example:
 ```sh
 git clone git://github.com/inspircd/inspircd.git
 git checkout insp12 # Optional, switches to the 1.2 branch.
-git checkout insp21 # Optional, switches to the 2.1 branch.
 ```
 
 **Note** the source code in Git is often less stable than the source code in a release version. Make
