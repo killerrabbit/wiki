@@ -18,8 +18,8 @@ If you plan to build on a headless server you will probably need to use commands
 the following in order to download and unpack the source:
 
 ```sh
-wget https://inspircd.github.com/downloads/InspIRCd-X.Y.Z.tar.bz2
-tar xvf ./InspIRCd-X.Y.Z.tar.bz2
+wget https://github.com/inspircd/inspircd/archive/vX.Y.Z.tar.gz
+tar xvf ./vX.Y.Z.tar.gz
 ```
 
 **Note** if you are using a system that does not have GNU wget, such as Mac OS X, then you
