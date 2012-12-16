@@ -13,7 +13,7 @@ vX.Y.P denotes the previous version, vX.Y.Z denotes the new version.
 4. `git tag vX.Y.Z`
 5. `git push --tags`
 6. `git archive vX.Y.Z --prefix inspircd/ | bzip2 > InspIRCd-X.Y.Z.tar.bz2`
-7. Upload the tarball to [GitHub](https://github.com/inspircd/inspircd)
+7. Upload the tarball to the [website](https://github.com/inspircd/inspircd.github.com)
 8. Generate a changelog for the [website](https://github.com/inspircd/inspircd.github.com) using `git shortlog --no-merges --pretty=short vX.Y.P..vX.Y.Z`
 9. Create a new post on the [website](https://github.com/inspircd/inspircd.github.com) using `rake post`
 10. Commit the new post
