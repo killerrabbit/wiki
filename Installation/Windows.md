@@ -3,7 +3,7 @@ title: Installation &raquo; Windows
 layout: default
 ---
 
-InspIRCd packages are available on the [InspIRCd download page](https://inspircd.github.com/downloads).
+InspIRCd packages are available on the [InspIRCd download page](http://inspircd.github.com/downloads/).
 
 ## Installation
 
