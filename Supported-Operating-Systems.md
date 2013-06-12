@@ -47,6 +47,6 @@ SUSE                      | ?                     | ![Current package](/wiki/Ima
 ----------------- | --------------------- | --------------------------------------------------- | ---------
 HP-UX             | 11.0 and newer        | ![No package](/wiki/Images/NoPackage.png)           | none
 Mac OS X          | 10.4 and newer        | ![Current package](/wiki/Images/CurrentPackage.png) | none
-Microsoft Windows | 2000 and newer        | ![Current package](/wiki/Images/CurrentPackage.png) | Available from the downloads page
+Microsoft Windows | XP and newer          | ![Current package](/wiki/Images/CurrentPackage.png) | Available from the downloads page
 Nexenta OS        | 10.0 and newer        | ![No package](/wiki/Images/NoPackage.png)           | none
 Solaris           | 1.0 and newer         | ![No package](/wiki/Images/NoPackage.png)           | none
