@@ -9,9 +9,13 @@ Provides a channel mode to hide joins/parts/quits in a channel.
 
 ## Configuration Tags
 
-`<auditorium opvisible="no" # Are channel ops visible to all in the channel?
-opcansee="no" # Can channel ops see every user in the channel?
-opercansee="yes">` # Can ircops see all in the channel?
+`<auditorium opvisible="no" opcansee="no" opercansee="yes">`
+
+Setting | Description
+------- | -----------
+opvisible="no" | Are channel ops visible to all in the channel?
+opcansee="no" | Can channel ops see every user in the channel?
+opercansee="yes" | Can ircops see all in the channel?
 
 ## Commands
 
