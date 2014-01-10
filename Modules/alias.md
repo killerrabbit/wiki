@@ -26,6 +26,7 @@ operonly="false" | Only allows ircops to trigger alias
 `<fantasy prefix="!" allowbots="no">`
 
 Setting | Description
+------- | -----------
 prefix="!" | Prefix used for aliases inside of channels
 allowbots="no" | Ignore alias triggers from "bot" users(m_botmode)
 
